@@ -1,21 +1,32 @@
+![image](https://i.etsystatic.com/43987475/r/il/57c8d8/5078932421/il_fullxfull.5078932421_o4i8.jpg)
 <h1 align="center">
 Hi 👋, We're status_code-418</h1>
 
 <h3 align="center">
 Team of normies trying to build something for the community
 </h3>
+<h2 align="left">🙋‍♂️ About Us:</h2>
 
+###
+
+<img align="right" height="360"  src="https://static.displate.com/857x1200/displate/2023-04-02/7630e07b7194fc1f3a9544e45938c2a1_6bbbb2a4c5f3b9472ced27713c57499c.jpg" />
+<p align="left">✨ We are a team trying to innovate<br>💻 Kaushik Chowdhury <a href="github.com/darkard2003"> Kaushik's Github </a> <br>💻 Rohan Mitra <a href="github.com/Rohan-450"> Rohan's Github </a><br>💻 Nabajit Bhadury <a href="github.com/NabajitBhadury"> Nabajit's Github </a><br>💻 Anjishnu Ganguly <a href="Skythrill256"> Anjishnu's Github</a></p>
+
+
+###
 <h3 align="left">
-Connect with me: <a href="mailto:418satatuscode@gmail.com"> 418statuscode@gmail.com </a>
+💬 Connect with us: <a href="mailto:418satatuscode@gmail.com"> 418statuscode@gmail.com </a>
 </h3>
 
 <p align="left">
 
 </p>
 
-<h3 align="left">
+###
 
-Languages and Tools:</h3>
+<h2 align="left">🚀 Languages and Tools:</h2>
+
+###
 
 <p align="left">
  
@@ -127,3 +138,15 @@ Languages and Tools:</h3>
  <img src="https://skillicons.dev/icons?i=solidity"></img>
  </p>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=statuscode-418&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="157" alt="stats graph"  />
+    <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=statuscode-418&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />--->
+</div>
+
+###
+
+ <div align="center">
+  <img src="https://streak-stats.demolab.com?user=statuscode-418&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
