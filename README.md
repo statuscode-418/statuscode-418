@@ -10,7 +10,7 @@ Team of normies trying to build something for the community
 ###
 
 <img align="right" height="360"  src="https://static.displate.com/857x1200/displate/2023-04-02/7630e07b7194fc1f3a9544e45938c2a1_6bbbb2a4c5f3b9472ced27713c57499c.jpg" />
-<p align="left">✨ We are a team trying to innovate<br>💻 Kaushik Chowdhury <a href="https://github.com/darkard2003"> Kaushik's Github </a> <br>💻 Rohan Mitra <a href="https://github.com/Rohan-450"> Rohan's Github </a><br>💻 Nabajit Bhadury <a href="https://github.com/NabajitBhadury"> Nabajit's Github </a><br>💻 Anjishnu Ganguly <a href="https://github.com/Skythrill256"> Anjishnu's Github</a></p>
+<p align="left">✨ We are a team trying to innovate<br>💻 Kaushik Chowdhury <a href="https://www.github.com/darkard2003" target="_blank" rel="noreferrer"> Kaushik's Github </a> <br>💻 Rohan Mitra <a href="https://www.github.com/Rohan-450" target="_blank" rel="noreferrer"> Rohan's Github </a><br>💻 Nabajit Bhadury <a href="https://www.github.com/NabajitBhadury" target="_blank" rel="noreferrer"> Nabajit's Github </a><br>💻 Anjishnu Ganguly <a href="https://www.github.com/Skythrill256" target="_blank" rel="noreferrer"> Anjishnu's Github</a></p>
 
 
 ###
